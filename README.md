@@ -23,10 +23,10 @@ By centralizing food sharing and NGO partnerships in one platform, FoodLink make
 ---
 
 **Key Features**
-- 🥗 **Food Sharing Platform** – Enables listing and discovery of available food resources  
-- 🤝 **Partner with Us as an NGO** – NGOs can register and collaborate for food distribution  
-- 🌍 **Community Impact Focused Design** – Built to support social good initiatives  
-- 📱 **Modern UI** – Clean, responsive interface for smooth user experience  
+- **Food Sharing Platform** – Enables listing and discovery of available food resources  
+- **Partner with Us as an NGO** – NGOs can register and collaborate for food distribution  
+- **Community Impact Focused Design** – Built to support social good initiatives  
+- **Modern UI** – Clean, responsive interface for smooth user experience  
 
 ---
 
@@ -71,3 +71,4 @@ FoodLink aims to:
 
 
 Contributions and ideas are always welcome!
+
