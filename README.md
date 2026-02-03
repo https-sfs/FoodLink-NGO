@@ -68,7 +68,3 @@ FoodLink aims to:
 - Smart matching between donors and NGOs  
 - Notifications & real-time updates  
 - AI-powered demand prediction  
-
-
-Contributions and ideas are always welcome!
-
